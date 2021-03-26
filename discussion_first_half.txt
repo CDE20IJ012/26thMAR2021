@@ -1,0 +1,23 @@
+Static Code Analyzer Tools
+ PMD
+ FindBug
+ Sonarqube
+
+-----------------------------------
+
+For PMD plugin ( If it is not available with Eclipse/STS, Eclipse MarketPlace and search for PMD and click the go button. So it will be searched you can get it from
+multiple vendors. We go for the following mentioned:-
+
+ pmd-eclipse-plugin select and install go for confirming the 
+agreement.
+
+
+After the plugin is installed the STS itself will ask to restart the STS/IDE. 
+So to make the plugin effective , restart the IDE.
+
+Q How to enable the usage of PMD?
+A Right click on the project, goto properties , you will be see the PMD option
+in the list at the left hand side.Select the checkbox in the RHS to enable the 
+usage of PMD with the project.
+
+Now right click on the project , select PMD===> Check code.
