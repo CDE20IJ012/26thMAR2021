@@ -1,0 +1,19 @@
+https://pmd.github.io/latest/pmd_rules_java_bestpractices.html.
+
+You should properly go for documentation of the code.
+
+Enforcing documentation of the code in STS/Eclipse.
+
+
+Right click on the project ===> properties=====> JAva compiler=====> JavaDoc=====>
+Enable Project specific settings
+
+How to create javadocumentation with javadoc
+In STS project menu=====>
+
+-------------------------------------------------
+
+Java Editor ========== > Save Actions
+
+The setting can be stored in a XML file for example in our case 
+we are saving it with mysettings.xml
